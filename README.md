@@ -73,6 +73,3 @@ Feel free to fork the repository, contribute by opening issues or submitting pul
 ---
 
 Enjoy the game! 🎮🚀
-```
-
-This README provides a basic overview of your game and instructions on how to set it up. You can further enhance it with more detailed descriptions, screenshots, or instructions as needed.
