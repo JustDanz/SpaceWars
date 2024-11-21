@@ -33,7 +33,7 @@
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/JustDanz/spacewars.git
+   git clone https://github.com/JustDanz/SpaceWars.git
    ```
 
 2. **Navigate to the project directory**:
